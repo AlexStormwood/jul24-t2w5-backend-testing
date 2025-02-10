@@ -1,0 +1,27 @@
+{
+  "name": "jul24-t2w5-backend-testing",
+  "version": "1.0.0",
+  "description": "Intro to Jest and intro to Supertest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexStormwood/jul24-t2w5-backend-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AlexStormwood/jul24-t2w5-backend-testing/issues"
+  },
+  "homepage": "https://github.com/AlexStormwood/jul24-t2w5-backend-testing#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
